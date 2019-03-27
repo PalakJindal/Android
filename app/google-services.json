@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "960586827101",
+    "firebase_url": "https://friendlychat-82ccc.firebaseio.com",
+    "project_id": "friendlychat-82ccc",
+    "storage_bucket": "friendlychat-82ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960586827101:android:398cc5090149764a",
+        "android_client_info": {
+          "package_name": "com.example.palak.newsaggapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960586827101-4175ktp9hjp5fbqjmhs7qol0mnkfolcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6truqULnGWaFZD725jxJId2_guCwY-Po"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
